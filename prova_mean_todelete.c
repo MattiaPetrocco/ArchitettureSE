@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 int main(){
-    int a=2;
-    int b=6;
+    int a=1;
+    int b=2;
     float res;
 
     res=mean(a, b);
